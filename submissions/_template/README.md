@@ -35,10 +35,6 @@
 
 ## Swag / 周边
 
-<!-- 如需接收周边，填写以下信息（可选）/ Fill in if you want to receive swag (optional) -->
+<!-- 如需接收周边，勾选即可，收件信息请通过表单提交（见 guide.md）/ Check if you want swag, submit shipping info via the form -->
 
 - [ ] 我希望接收周边 / I'd like to receive swag
-- 收件人 / Recipient:
-- 联系方式 / Contact (WeChat / Telegram / Email):
-- 收件地址 / Shipping Address:
-- 钱包地址 / Wallet Address (Sui):
